@@ -2,10 +2,10 @@
 
 NewsApp is a simple and dynamic UI based application which updates you in realtime about the latest news in different categories.
 It is designed in google's material UI.
-For network calls Retrofit is used and okhttp3 as its Interceptor.
+For network calls Retrofit is used .
 It uses RoomDb for local caching.
 It has custom animations and shimmer effect in recyclerview.
-It is using InShorts API for fetching the latest news.
+It is using NewsApi.org for fetching the latest news.
 
 ## Features:
 - Latest news with date and time can be viewed
